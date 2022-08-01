@@ -1,0 +1,23 @@
+{
+  "name": "live-server-test",
+  "version": "1.0.0",
+  "description": "Testing out Live-Server extension for testing modules",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dboren/Live-server-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dboren/Live-server-test/issues"
+  },
+  "homepage": "https://github.com/dboren/Live-server-test#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

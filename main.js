@@ -1,4 +1,4 @@
 import { welcome } from "./welcome";
 
-alert(welcome);
+// alert(welcome);
 welcome('Dan');
